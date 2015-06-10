@@ -1,0 +1,6 @@
+﻿Vẽ :
+- Mặt trước
+- Mặt sau
+- Xoay trái (lật lại thành xoay phải)
+Tô :
+- Hai màu đậm nhạt
